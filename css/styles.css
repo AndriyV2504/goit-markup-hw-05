@@ -718,7 +718,7 @@ img {
     text-decoration: underline;
 }
 
-.check-text span {
+.check-text .sp-check {
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
